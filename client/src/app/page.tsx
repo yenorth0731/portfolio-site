@@ -11,9 +11,9 @@ export default function Home() {
         altText=""
         heading="Yuki Edamura"
         description=""
-        toScroll={"blogs"}
+        toScroll={"toMain"}
       />
-      <section className="relative py-8 bg-slate-200">
+      <section className="relative py-8 bg-slate-200" id="toMain">
         <div className="container mx-auto">
           <h2 className="text-3xl font-bold text-center mb-6 pt-10 pb-10">
             作品例

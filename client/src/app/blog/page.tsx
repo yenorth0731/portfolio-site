@@ -53,17 +53,6 @@ export default async function BlogPage() {
               </div>
             );
           })}
-
-          <div className="bg-white rounded-lg shadow-md p-8 transition-shadow duration-300 hover:shadow-lg m-10 w-1/4">
-            <h3 className="text-xl font-semibold pb-3">カテゴリ</h3>
-            <ul>
-              <li>あ</li>
-              <li>あ</li>
-              <li>あ</li>
-              <li>あ</li>
-              <li>あ</li>
-            </ul>
-          </div>
         </div>
       </div>
     </>
